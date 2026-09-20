@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center"> 
 
-<!--
-**gloomtown/gloomtown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$\color{#000000}﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌$
 
-Here are some ideas to get you started:
+<p>$\color{#474b5c}{usually~off~tab~,~w2i~,~c+h}$</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="551" height="383" alt="2026_09_20_018_Kleki" src="https://github.com/user-attachments/assets/f858c985-e394-4ead-9b88-f70748755365" />
+
+<br>
+<br>
+
+[strawpage](https://menherak.straw.page) [listography](https://listography.com/necrodog)
+
+$\color{#000000}﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌$</p>
+
+ </div>
